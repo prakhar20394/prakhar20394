@@ -8,7 +8,7 @@ I am an aspiring **UX/UI designer**, based in Delhi, India. While you can find m
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a UX/UI Intern at Government e-Marketplace, solving problems through Design
-- 🌱 I’m currently learning HTML CSS and JavaScript. I am also trying to get a hold on Competitive Programming in all the free time I get.
+- 🌱 I’m currently learning HTML CSS and JavaScript. Exploring different possibilities in AR/VR/Metaverse. I am also trying to get a hold on Competitive Programming in all the free time I get.
 - 👯 I’m looking to collaborate on technology for a positive change, I am always looking towards solving real problems
 - 🤔 I’m looking for help with mentorship and guidance for getting into UX/UI Design and Development.
 - 💬 I'm always thinking about Food, Cars, Machines, People and Design
@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 
 ### :fire: My Stats :
+![Prakhar's github stats](https://github-readme-stats.vercel.app/api?username=prakhar20394)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prakhar20394&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?prakhar20394&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prakhar20394)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### :writing_hand: Blog Posts :
 - [Medium](https://medium.com/@prakharbhargava35)

@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 
 ### :fire: My Stats :
-![Prakhar's github stats](https://github-readme-stats.vercel.app/api?username=prakhar20394)
+![Prakhar's github stats](https://github-readme-stats.vercel.app/api?username=prakhar20394&theme=tokyonight&showicons=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prakhar20394&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prakhar20394)](https://github.com/anuraghazra/github-readme-stats)

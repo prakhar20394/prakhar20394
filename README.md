@@ -2,8 +2,8 @@
 <div id="header" align="center">
   <img src="https://mir-s3-cdn-cf.behance.net/user/276/c815ee327425345.5f63347d1d1ab.jpg" width="100"/>
 </div>
-** Prakhar Bhargava **
-I am an aspiring *UX/UI designer*, based in Delhi, India. While you can find me lost in thought all day, I am passionate about using design to solve problems. I love to see the world around me as a story being written, and all the things I do have a story to tell.
+**Prakhar Bhargava**
+I am an aspiring **UX/UI designer**, based in Delhi, India. While you can find me lost in thought all day, I am passionate about using design to solve problems. I love to see the world around me as a story being written, and all the things I do have a story to tell.
 
 Here are some ideas to get you started:
 
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on technology for a positive change, I am always looking towards solving real problems
 - 🤔 I’m looking for help with mentorship and guidance for getting into UX/UI Design and Development.
 - 💬 I'm always thinking about Food, Cars, Machines, People and Design
-- 📫 How to reach me: [Personal Mail](mailto:prakharbhargava35@gmail.com) [Whatsapp](wa.me/+919899326396) 
+- 📫 How to reach me: You can write to me at [Personal Mail](mailto:prakharbhargava35@gmail.com)  or simply drop me a message on [Whatsapp](wa.me/+919899326396) 
 - 😄 Pronouns: He/Him
 
 ### :fire: My Stats :

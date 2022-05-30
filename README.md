@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on technology for a positive change, I am always looking towards solving real problems
 - 🤔 I’m looking for help with mentorship and guidance for getting into UX/UI Design and Development.
 - 💬 I'm always thinking about Food, Cars, Machines, People and Design
-- 📫 How to reach me: You can write to me at [Personal Mail](mailto:prakharbhargava35@gmail.com)  or simply drop me a message on [Whatsapp](wa.me/+919899326396) 
+- 📫 How to reach me: You can write to me at [Personal Mail](mailto:prakharbhargava35@gmail.com)  or simply drop me a message on [Whatsapp](http://wa.me/+919899326396) 
 - 😄 Pronouns: He/Him
 
 ### :fire: My Stats :

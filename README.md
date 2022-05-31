@@ -2,8 +2,8 @@
 <div id="header" align="center">
   <img src="https://mir-s3-cdn-cf.behance.net/user/276/c815ee327425345.5f63347d1d1ab.jpg" width="100"/>
 </div>
-**Prakhar Bhargava**
-I am an aspiring **UX/UI designer**, based in Delhi, India. While you can find me lost in thought all day, I am passionate about using design to solve problems. I love to see the world around me as a story being written, and all the things I do have a story to tell.
+**Prakhar Bhargava** <br>
+I am an aspiring UX/UI designer, based in Delhi, India. While you can find me lost in thought all day, I am passionate about using design to solve problems. I love to see the world around me as a story being written, and all the things I do have a story to tell.
 
 Here are some ideas to get you started:
 

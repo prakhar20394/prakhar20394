@@ -32,6 +32,8 @@ I am an aspiring UX/UI designer based in Delhi, India. My passion lies in using 
 - MySQL
 - Git
 
-Feel free to explore my repositories and connect with me if you have any exciting ideas or collaboration opportunities! You can reach me via [Personal Mail](mailto:prakharbhargava35@gmail.com) or send me a message on [Whatsapp](http://wa.me/+919899326396).
+Feel free to explore my repositories and connect with me if you have any exciting ideas or collaboration opportunities! You can reach me via [hello@prakharbhargava.in](mailto:hello@prakharbhargava.in) or send me a message on [Whatsapp](http://wa.me/+919899326396).
+
+Check out my portfolio website: [prakharbhargava.in](https://prakharbhargava.in)
 
 Looking forward to creating innovative solutions together! 😊
